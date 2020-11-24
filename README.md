@@ -1,2 +1,3 @@
 # resume
-trial to test and learn how to use github
+trial to test and BIM A+
+Module 3
